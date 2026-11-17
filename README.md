@@ -1,0 +1,1 @@
+command line project designed to learn about classes, OOP in python
